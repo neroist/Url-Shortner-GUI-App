@@ -2,7 +2,7 @@
 A GUI app in which you can select from multiple URL shortners to shorten a URL.
 
 # Attributions:
-Cut Scissor icon (used as the app's window icon):
+Cut Scissor icon (used as the app's window and file icon):
 
 ![](https://uxwing.com/wp-content/themes/uxwing/download/40-beauty-fashion/cut-scissor.png)
 
